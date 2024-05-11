@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&text=2zidol%20&#128526;&fontColor=FFE4B5&animation=twinkling&color=ADD8E6&fontSize=40&descSize=&height=150)
+![header](https://capsule-render.vercel.app/api?type=Venom&text=kyoorochi%20&#128526;&fontColor=FFE4B5&animation=twinkling&color=ADD8E6&fontSize=40&descSize=&height=150)
 <br/>
 <div align="center">
     <h4>😿😿 Studying..😿😿</h4>
